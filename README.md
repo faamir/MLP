@@ -1,2 +1,2 @@
 # MLP
-Multi Layer Perceptron with Theano in Python
+Multilayer Perceptron with Theano in Python
